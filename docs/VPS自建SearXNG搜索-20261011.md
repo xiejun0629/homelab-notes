@@ -70,7 +70,7 @@ curl -s 'http://127.0.0.1:8888/search?q=测试&format=json' | head -c 300
 
 ## 八、公网网页版（手机/浏览器直接用）
 
-**地址 `https://example.com`　用户名 `user`　密码 `<REDACTED>`**
+**地址 `https://example.com`　用户名 `user`　密码 <REDACTED>*
 
 链路（没有新增任何公网端口，也没有新开证书——复用了通配符证书 `*.example.com`）：
 

@@ -15,6 +15,15 @@
 | [服务器卡顿故障复盘](docs/故障复盘-服务器卡顿-20261017.md) | 真实事故复盘：症状、取证、根因、修复 |
 | [服务器卡死故障复盘](docs/故障复盘-服务器卡死-20261016.md) | 由内存超限引发的连锁卡死复盘 |
 | [VPS 自建 SearXNG](docs/VPS自建SearXNG搜索-20261011.md) | 私有聚合搜索部署与实测 |
+| [自建邮箱（docker-mailserver + Brevo 中继）](docs/自建邮箱-xiejun-server-top-20261018.md) | 自有域名邮箱收发信全链路，SPF/DKIM/DMARC 通过 |
+| [Gitea 私有代码仓库](docs/私有代码仓库-Gitea-20261023.md) | 自建 Git 服务 + 每日备份推送 |
+| [自建 AI 对话（Open WebUI）](docs/自建AI对话-OpenWebUI-20261014.md) | 自建 ChatGPT 界面 + 联网搜索 |
+| [Windows 按需关机](docs/监控面板-Windows按需关机-20261013.md) | WOL 远程开机 + 仪表盘开关机 |
+| [DeepSeek 余额监控](docs/监控台-DeepSeek余额-20261014.md) | 监控台余额查询与告警 |
+| [博查余额监控](docs/监控台-博查余额-20261017.md) | 监控台余额查询与告警 |
+| [手机打不开网站与 HSTS](docs/手机打不开网站与HSTS-20261011.md) | 真实排障：HSTS + 缓存问题定位 |
+| [DSH 接入博查搜索](docs/DSH接入博查搜索-20261017.md) | MCP 搜索插件接入与额度回退 |
+| [监控面板改版与 Windows 修复](docs/监控面板改版-Windows修复-20261011.md) | 监控台改版与 Windows 节点接入 |
 
 ## 脱敏声明
 

@@ -1,4 +1,4 @@
-# Vaultwarden 自建密码库部署（2026-10-24）
+# Vaultwarden 自建密码 <REDACTED>）
 
 ## 访问地址
 https://example.com
@@ -23,7 +23,7 @@ https://example.com
 ## 待办
 1. 用户注册第一个账号（邮箱 + 主密码；建议密码短语，如"咖啡-火车-葡萄-雨伞-27"，写纸质备份）
 2. 注册后把 SIGNUPS_ALLOWED 改为 false 并重启容器（仅邀请制）
-3. 把现有重复密码（NPM/Gitea/Memos/PhotoPrism/Open WebUI/博客后台/.155 Windows/路由器）逐个改成随机强密码并存入 Vaultwarden
+3. 把现有重复密码（NPM/Gitea/Memos/PhotoPrism/Open WebUI/博客后台/.155 Windows/路由器）逐个改成随机强密码 <REDACTED>
 4. 重要服务开 TOTP 二次验证（验证码也可存 Vaultwarden）
 5. 博客后台可加 TOTP（后续可做）
 6. 每周确认备份包含 vaultwarden-data（已接入 sync.sh）
